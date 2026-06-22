@@ -1,7 +1,4 @@
-# Cypher-Your-IT-Cybersecurity-Study-Session-Planner
-
-
-# 🛡️ AI-Powered Cybersecurity Applications
+# Cypher-Your-IT-Cybersecurity-Study-Session-Planner (🛡️ AI-Powered Cybersecurity Application)
 ### Built with Amazon Bedrock & PartyRock | AI Foundations Projects
 
 ---
