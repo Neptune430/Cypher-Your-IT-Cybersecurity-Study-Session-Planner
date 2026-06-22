@@ -39,7 +39,7 @@ PartyRock is Amazon's no-code AI application builder — think of it as the visu
 
 ### The Problem
 
-As a cybersecurity analyst and tutor, one of the most consistent friction points I observed — in myself and in the students I mentor — is the gap between *wanting to study* and *knowing how to study effectively*. A learner sits down with 45 minutes and a topic in mind, and within minutes they're scattered across YouTube, Reddit, documentation, and blogs with no structure, no direction, and nothing meaningful to show at the end of the session.
+As a cybersecurity analyst and tutor, one of the most consistent friction points I observed, in myself and in the students I mentor.. is the gap between *wanting to study* and *knowing how to study effectively*. A learner sits down with 45 minutes and a topic in mind, and within minutes they're scattered across YouTube, Reddit, documentation, and blogs with no structure, no direction, and nothing meaningful to show at the end of the session.
 
 Generic chatbots can answer questions, but they can't replace a structured system. Every time you start a new conversation, you lose context, consistency, and continuity. There was no tool purpose-built for cybersecurity learners that could adapt to their level, respect their time, and produce the same quality output every single run.
 
