@@ -77,13 +77,13 @@ A time-blocked session broken into four structured phases:
 Each phase includes specific free resources (TryHackMe, HackTheBox, MITRE ATT&CK, YouTube channels), realistic time allocations, and guiding analytical questions.
 
 **2. Knowledge Check**
-Five quiz questions scaled to the learner's experience level — starting accessible and increasing in difficulty — with correct answers included for self-assessment.
+Thirty quiz questions scaled to the learner's experience level — starting accessible and increasing in difficulty — with correct answers included for self-assessment.
 
 **3. Key Takeaways & Next Steps**
 A distilled summary of the session's most critical concepts, followed by two to three logical next-topic recommendations to maintain learning momentum.
 
 **4. Analyst Tip of the Session**
-One practitioner-level insight connecting the study topic to how it actually appears in a live SOC environment or penetration test engagement — the kind of context that textbooks don't give you.
+One practitioner-level insight connecting the study topic to how it actually appears in a live Cybersecurity/SOC environment or penetration test engagement — the kind of context that textbooks don't give you.
 
 ---
 
