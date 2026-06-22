@@ -119,7 +119,7 @@ Each run produced a completely different output tailored to the inputs — while
 
 ### 🔗 Live App
 
-> 🚀 **[Launch CYPHER on PartyRock](#)** ← *(Replace with your public PartyRock share link)*
+> 🚀 **[Launch CYPHER on PartyRock](#)** ← *((https://partyrock.aws/u/cremescene/9P7alB2qO/CyPher%253A-Your-IT-and-Cybersecurity-Study-Session-Planner))*
 
 ---
 
