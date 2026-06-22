@@ -243,16 +243,6 @@ The questions that produced the most analytically rich responses shared three ch
 
 ---
 
-## 🔭 What's Next
-
-These two projects represent the foundation of a larger body of work applying AI to cybersecurity operations and education. Future projects in development include:
-
-- **SENTINEL** — A highly personalized AI cybersecurity assistant with biometric login sequence, operational HUD, and multi-domain SOC functionality
-- **LOG WHISPERER** — Paste any raw log, receive instant plain-English analysis, MITRE ATT&CK mapping, and recommended next investigative steps
-- **INCIDENT COMMANDER** — A live, adaptive SOC playbook engine that updates in real time as incident details develop
-
----
-
 ## 👤 Author
 
 **John**
