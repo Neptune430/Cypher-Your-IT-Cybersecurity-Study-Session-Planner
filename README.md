@@ -166,7 +166,7 @@ Three targeted questions were posed to PartyRock's Whiskers AI to extract meanin
 
 ### Analysis Table
 
-Whiskers was prompted to generate a structured summary analysis table:
+A structured summary analysis table was then generated:
 
 > *"Generate a summary analysis table showing the minimum, maximum, average, and standard deviation for each numerical measurement in the dataset. Flag any values that deviate more than 2 standard deviations from the mean."*
 
