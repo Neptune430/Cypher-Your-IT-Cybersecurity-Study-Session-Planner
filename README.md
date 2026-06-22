@@ -20,7 +20,7 @@ These projects explore the intersection of **generative AI** and **cybersecurity
 
 ## 🧠 What is PartyRock?
 
-PartyRock is Amazon's no-code AI application builder — think of it as the visual, accessible front end to **Amazon Bedrock**, the same enterprise-grade AI infrastructure used by Fortune 500 companies. PartyRock allows builders to create fully functional, shareable AI applications using drag-and-drop widgets — no coding, no AWS account, and no credit card required.
+PartyRock is Amazon's no-code AI application builder — think of it as the visual, accessible front end to **Amazon Bedrock**, the same enterprise-grade AI infrastructure used by Fortune 500 companies.
 
 > **The distinction that matters:** PartyRock is the platform. The applications built on it — the problem framing, the input structure, the output logic, the use case — those belong to the builder.
 
