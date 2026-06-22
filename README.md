@@ -11,7 +11,7 @@
 ---
 
 
-TRY CYPHER HERE: https://partyrock.aws/u/cremescene/9P7alB2qO/CyPher%253A-Your-IT-and-Cybersecurity-Study-Session-Planner
+🚀: https://partyrock.aws/u/cremescene/9P7alB2qO/CyPher%253A-Your-IT-and-Cybersecurity-Study-Session-Planner
 
 ## 📌 Overview
 
