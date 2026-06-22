@@ -10,6 +10,9 @@
 
 ---
 
+
+TRY CYPHER HERE: https://partyrock.aws/u/cremescene/9P7alB2qO/CyPher%253A-Your-IT-and-Cybersecurity-Study-Session-Planner
+
 ## 📌 Overview
 
 This repository documents two AI application projects completed as part of an AI Foundations discipline, built using **PartyRock** , Amazon's no-code generative AI playground powered by **Amazon Bedrock**. Both projects were designed with a deliberate focus: instead of building generic template apps, every application was tailored to solve real, daily problems faced by a working **cybersecurity analyst and tutor**.
